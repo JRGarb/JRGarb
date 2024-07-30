@@ -1,5 +1,5 @@
 ## Hi! I'm Jen 🌻<sub>(*she/her*)<sub>
-### Looking for data analysis/science roles from April 2024 😄
+### Looking for data analysis/science-related roles in environment-positive organisations 😄
 I've recently completed the __CoGrammar/HyperionDev Data Science Bootcamp__ where I learned to code in python 🐍
 and had a great time building a whole new skill set.
 
